@@ -1,0 +1,13 @@
+{
+    "first_name": "first name here",
+    "last_name": "last name here",
+    "street1": "street 1 here",
+    "street2": "street 2 here (unit numbers, etc)",
+    "city": "city here",
+    "country": "US",
+    "state": "enter state abbreviation here in capitals (ex. CA)",
+    "telephone": "phone number here",
+    "zipcode": "zipcode here",
+    "email": "your email here"
+
+}
